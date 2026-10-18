@@ -30,7 +30,7 @@ const CONFIG = {
   menuFooter: "i hope you'll love them, Dabi",
 
   /* photo page ---------------------------------------------------------- */
-  photoHeading: "ME|WHEN:",          // shown vertically; "|" makes a gap
+  photoHeading: "YOU|WHEN:",          // shown vertically; "|" makes a gap
   // order: top-left, top-right, middle, bottom-left, bottom-right
  captions: [" naka unif ikaw", "busy ikaw", "compliment kita", "u make lambing", "u reply so tagal"],
   // photos: set the img1 … img7 variables at the very top of this file.
