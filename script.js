@@ -56,7 +56,7 @@ const CONFIG = {
   // title/artist to whatever should show on the player.)
   // If the file isn't found, a gentle generated lullaby plays instead.
   songs: [
-    { title: "Our Song", artist: "for you, baby", src: "Ngiti - The Juans (Official Lyric Video).mp3" }
+    { title: "Our Song", artist: "for you, Dabi", src: "Ngiti - The Juans (Official Lyric Video).mp3" }
   ]
 };
 
